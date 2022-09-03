@@ -1,45 +1,12 @@
-workerman-chat
+火花制作组CN·官网
 =======
-基于workerman的GatewayWorker框架开发的一款高性能支持分布式部署的聊天室系统。
+### Ⅰ.这是哪
+这里是“火花制作组CN·官网”的GitHub托管仓库中的ReadMe.md文件，通常您不会看到此页面，只有在仓库空缺（即更新替代时可能会有几分钟的时间）。  
+### Ⅱ.什么是MarkDown文件？
+Markdown是一种轻量级标记语言，在GitHub中用于标记或记录开发者留言或信息。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
 
-GatewayWorker框架文档：http://www.workerman.net/gatewaydoc/
-
- 特性
-======
- * 使用websocket协议
- * 多浏览器支持（浏览器支持html5或者flash任意一种即可）
- * 多房间支持
- * 私聊支持
- * 掉线自动重连
- * 支持多服务器部署
- * 业务逻辑全部在一个文件中，快速入门可以参考这个文件[Applications/Chat/Event.php](https://github.com/walkor/workerman-chat/blob/master/Applications/Chat/Event.php)   
-  
-下载安装
-=====
-1、git clone https://github.com/walkor/workerman-chat
-
-2、composer install
-
-启动停止(Linux系统)
-=====
-以debug方式启动  
-```php start.php start  ```
-
-以daemon方式启动  
-```php start.php start -d ```
-
-启动(windows系统)
-======
-windows版本请到这里下载，启动方式参考下面源码中README.md
-
-https://github.com/walkor/workerman-chat-for-win/archive/master.zip
-
-注意：  
-windows系统下无法使用 stop reload status 等命令  
-如果无法打开页面请尝试关闭服务器防火墙  
-
-测试
-=======
-浏览器访问 http://服务器ip或域:55151,例如http://127.0.0.1:55151
-
- [更多请访问www.workerman.net](http://www.workerman.net/workerman-chat)
+说的简单一点，markdown其实就是一种简单的文本，与普通的文本文件（txt文件）不同的是，支持一些特殊的符号，通过特殊的符号来表示不同的语义，并且给予不同的样式，比如不同字体大小的符号就是#/##/###……。普通的文本文件的后缀是.txt，而markdown文件的后缀是.md。
+### Ⅲ.既然还要等一会，何尝不来试试md文件（MarkDown）在线编辑器呢？
+[菜鸟工具](https://c.runoob.com/front-end/712/) 
+### Ⅳ.好了，时间差不多了，点击下方链接返回
+[返回](https://sparksentence.github.io/)
